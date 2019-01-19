@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:36:42.160Z', 'classification': 'unknown', 'name': 'Neimodian', 'designation': 'sentient', 'created': '2014-12-19T17:07:31.319Z', 'eye_colors': 'red, pink', 'people': [33], 'skin_colors': 'grey, green', 'language': 'Neimoidia', 'hair_colors': 'none', 'homeworld': 18, 'average_lifespan': 'unknown', 'average_height': '180'}

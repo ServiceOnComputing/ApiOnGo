@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.517Z', 'climate': 'temperate', 'surface_water': 'unknown', 'name': 'Skako', 'diameter': 'unknown', 'rotation_period': '27', 'created': '2014-12-20T17:50:47.864Z', 'terrain': 'urban, vines', 'gravity': '1', 'orbital_period': '384', 'population': '500000000000'}

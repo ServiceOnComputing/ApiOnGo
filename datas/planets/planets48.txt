@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.502Z', 'climate': 'unknown', 'surface_water': 'unknown', 'name': 'Quermia', 'diameter': 'unknown', 'rotation_period': 'unknown', 'created': '2014-12-20T10:34:08.249Z', 'terrain': 'unknown', 'gravity': 'unknown', 'orbital_period': 'unknown', 'population': 'unknown'}

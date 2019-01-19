@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:23:49.889Z', 'consumables': '5 days', 'name': 'TIE Advanced x1', 'created': '2014-12-12T11:21:32.991Z', 'cargo_capacity': '150', 'passengers': '0', 'max_atmosphering_speed': '1200', 'crew': '1', 'length': '9.2', 'model': 'Twin Ion Engine Advanced x1', 'cost_in_credits': 'unknown', 'manufacturer': 'Sienar Fleet Systems'}

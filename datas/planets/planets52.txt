@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.510Z', 'climate': 'unknown', 'surface_water': 'unknown', 'name': 'Serenno', 'diameter': 'unknown', 'rotation_period': 'unknown', 'created': '2014-12-20T16:52:13.357Z', 'terrain': 'rainforests, rivers, mountains', 'gravity': 'unknown', 'orbital_period': 'unknown', 'population': 'unknown'}

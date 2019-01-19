@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:30:21.672Z', 'consumables': 'none', 'name': 'Snowspeeder', 'created': '2014-12-15T12:22:12Z', 'cargo_capacity': '10', 'passengers': '0', 'max_atmosphering_speed': '650', 'crew': '2', 'length': '4.5', 'model': 't-47 airspeeder', 'cost_in_credits': 'unknown', 'manufacturer': 'Incom corporation'}

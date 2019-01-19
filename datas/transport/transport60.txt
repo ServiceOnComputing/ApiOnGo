@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:23:49.944Z', 'consumables': '56 days', 'name': 'Theta-class T-2c shuttle', 'created': '2014-12-20T19:48:40.409Z', 'cargo_capacity': '50000', 'passengers': '16', 'max_atmosphering_speed': '2000', 'crew': '5', 'length': '18.5', 'model': 'Theta-class T-2c shuttle', 'cost_in_credits': '1000000', 'manufacturer': 'Cygnus Spaceworks'}

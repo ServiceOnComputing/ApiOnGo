@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:23:49.937Z', 'consumables': '7 days', 'name': 'Solar Sailer', 'created': '2014-12-20T18:37:56.969Z', 'cargo_capacity': '240', 'passengers': '11', 'max_atmosphering_speed': '1600', 'crew': '3', 'length': '15.2', 'model': 'Punworcca 116-class interstellar sloop', 'cost_in_credits': '35700', 'manufacturer': 'Huppla Pasa Tisc Shipwrights Collective'}

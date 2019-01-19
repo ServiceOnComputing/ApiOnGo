@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.315Z', 'name': 'Leia Organa', 'created': '2014-12-10T15:20:09.791Z', 'gender': 'female', 'skin_color': 'light', 'hair_color': 'brown', 'height': '150', 'eye_color': 'brown', 'mass': '49', 'homeworld': 2, 'birth_year': '19BBY'}

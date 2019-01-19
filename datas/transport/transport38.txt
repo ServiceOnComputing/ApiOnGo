@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:23:49.917Z', 'consumables': '7 days', 'name': 'Naboo fighter', 'created': '2014-12-19T17:39:17.582Z', 'cargo_capacity': '65', 'passengers': '0', 'max_atmosphering_speed': '1100', 'crew': '1', 'length': '11', 'model': 'N-1 starfighter', 'cost_in_credits': '200000', 'manufacturer': 'Theed Palace Space Vessel Engineering Corps'}

@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.420Z', 'climate': 'temperate', 'surface_water': '40', 'name': 'Alderaan', 'diameter': '12500', 'rotation_period': '24', 'created': '2014-12-10T11:35:48.479Z', 'terrain': 'grasslands, mountains', 'gravity': '1 standard', 'orbital_period': '364', 'population': '2000000000'}

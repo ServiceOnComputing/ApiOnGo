@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.497Z', 'climate': 'unknown', 'surface_water': 'unknown', 'name': 'Iridonia', 'diameter': 'unknown', 'rotation_period': '29', 'created': '2014-12-20T10:26:05.788Z', 'terrain': 'rocky canyons, acid pools', 'gravity': 'unknown', 'orbital_period': '413', 'population': 'unknown'}

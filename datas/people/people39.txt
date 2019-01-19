@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.395Z', 'name': 'Watto', 'created': '2014-12-19T17:48:54.647Z', 'gender': 'male', 'skin_color': 'blue, grey', 'hair_color': 'black', 'height': '137', 'eye_color': 'yellow', 'mass': 'unknown', 'homeworld': 34, 'birth_year': 'unknown'}

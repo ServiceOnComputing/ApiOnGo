@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:23:49.883Z', 'consumables': '1 week', 'name': 'Y-wing', 'created': '2014-12-12T11:00:39.817Z', 'cargo_capacity': '110', 'passengers': '0', 'max_atmosphering_speed': '1000km', 'crew': '2', 'length': '14', 'model': 'BTL Y-wing', 'cost_in_credits': '134999', 'manufacturer': 'Koensayr Manufacturing'}

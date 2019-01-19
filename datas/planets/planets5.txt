@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.425Z', 'climate': 'murky', 'surface_water': '8', 'name': 'Dagobah', 'diameter': '8900', 'rotation_period': '23', 'created': '2014-12-10T11:42:22.590Z', 'terrain': 'swamp, jungles', 'gravity': 'N/A', 'orbital_period': '341', 'population': 'unknown'}

@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:36:42.191Z', 'classification': 'unknown', 'name': 'Kel Dor', 'designation': 'sentient', 'created': '2014-12-20T10:49:21.692Z', 'eye_colors': 'black, silver', 'people': [58], 'skin_colors': 'peach, orange, red', 'language': 'Kel Dor', 'hair_colors': 'none', 'homeworld': 49, 'average_lifespan': '70', 'average_height': '180'}

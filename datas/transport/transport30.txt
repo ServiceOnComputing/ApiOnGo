@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:23:49.912Z', 'consumables': 'unknown', 'name': 'Republic Cruiser', 'created': '2014-12-19T17:01:31.488Z', 'cargo_capacity': 'unknown', 'passengers': '16', 'max_atmosphering_speed': '900', 'crew': '9', 'length': '115', 'model': 'Consular-class cruiser', 'cost_in_credits': 'unknown', 'manufacturer': 'Corellian Engineering Corporation'}

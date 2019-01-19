@@ -1,0 +1,1 @@
+{'vehicle_class': 'space/planetary bomber', 'pilots': []}

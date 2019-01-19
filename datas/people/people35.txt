@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.383Z', 'name': 'Jar Jar Binks', 'created': '2014-12-19T17:29:32.489Z', 'gender': 'male', 'skin_color': 'orange', 'hair_color': 'none', 'height': '196', 'eye_color': 'orange', 'mass': '66', 'homeworld': 8, 'birth_year': '52BBY'}

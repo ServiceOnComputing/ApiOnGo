@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.437Z', 'climate': 'temperate, arid', 'surface_water': '5', 'name': 'Geonosis', 'diameter': '11370', 'rotation_period': '30', 'created': '2014-12-10T12:47:22.350Z', 'terrain': 'rock, desert, mountain, barren', 'gravity': '0.9 standard', 'orbital_period': '256', 'population': '100000000000'}

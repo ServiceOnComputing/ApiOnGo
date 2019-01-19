@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:23:49.895Z', 'consumables': '6 months', 'name': 'Rebel transport', 'created': '2014-12-15T12:34:52.264Z', 'cargo_capacity': '19000000', 'passengers': '90', 'max_atmosphering_speed': '650', 'crew': '6', 'length': '90', 'model': 'GR-75 medium transport', 'cost_in_credits': 'unknown', 'manufacturer': 'Gallofree Yards, Inc.'}

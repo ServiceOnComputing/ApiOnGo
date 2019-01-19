@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.493Z', 'climate': 'temperate', 'surface_water': '20', 'name': 'Cerea', 'diameter': 'unknown', 'rotation_period': '27', 'created': '2014-12-20T10:14:48.178Z', 'terrain': 'verdant', 'gravity': '1', 'orbital_period': '386', 'population': '450000000'}

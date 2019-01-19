@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.463Z', 'name': 'Bail Prestor Organa', 'created': '2014-12-20T16:53:08.575Z', 'gender': 'male', 'skin_color': 'tan', 'hair_color': 'black', 'height': '191', 'eye_color': 'brown', 'mass': 'unknown', 'homeworld': 2, 'birth_year': '67BBY'}

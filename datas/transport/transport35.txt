@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:30:21.705Z', 'consumables': 'none', 'name': 'Single Trooper Aerial Platform', 'created': '2014-12-19T17:15:09.511Z', 'cargo_capacity': 'none', 'passengers': '0', 'max_atmosphering_speed': '400', 'crew': '1', 'length': '2', 'model': 'Single Trooper Aerial Platform', 'cost_in_credits': '2500', 'manufacturer': 'Baktoid Armor Workshop'}

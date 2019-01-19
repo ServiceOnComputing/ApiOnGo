@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.523Z', 'climate': 'arid, temperate, tropical', 'surface_water': 'unknown', 'name': 'Kalee', 'diameter': '13850', 'rotation_period': '23', 'created': '2014-12-20T19:43:51.278Z', 'terrain': 'rainforests, cliffs, canyons, seas', 'gravity': '1', 'orbital_period': '378', 'population': '4000000000'}

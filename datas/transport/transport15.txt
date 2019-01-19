@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:30:21.675Z', 'consumables': '2 days', 'name': 'TIE bomber', 'created': '2014-12-15T12:33:15.838Z', 'cargo_capacity': 'none', 'passengers': '0', 'max_atmosphering_speed': '850', 'crew': '1', 'length': '7.8', 'model': 'TIE/sa bomber', 'cost_in_credits': 'unknown', 'manufacturer': 'Sienar Fleet Systems'}

@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.500Z', 'climate': 'arid, rocky, windy', 'surface_water': 'unknown', 'name': 'Iktotch', 'diameter': 'unknown', 'rotation_period': '22', 'created': '2014-12-20T10:31:32.413Z', 'terrain': 'rocky', 'gravity': '1', 'orbital_period': '481', 'population': 'unknown'}

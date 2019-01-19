@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:36:42.165Z', 'classification': 'mammal', 'name': 'Toydarian', 'designation': 'sentient', 'created': '2014-12-19T17:48:56.893Z', 'eye_colors': 'yellow', 'people': [40], 'skin_colors': 'blue, green, grey', 'language': 'Toydarian', 'hair_colors': 'none', 'homeworld': 34, 'average_lifespan': '91', 'average_height': '120'}

@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:36:42.181Z', 'classification': 'amphibian', 'name': 'Nautolan', 'designation': 'sentient', 'created': '2014-12-20T10:18:58.610Z', 'eye_colors': 'black', 'people': [53], 'skin_colors': 'green, blue, brown, red', 'language': 'Nautila', 'hair_colors': 'none', 'homeworld': 44, 'average_lifespan': '70', 'average_height': '180'}

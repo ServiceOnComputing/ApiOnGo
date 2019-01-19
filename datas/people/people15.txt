@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.336Z', 'name': 'Greedo', 'created': '2014-12-10T17:03:30.334Z', 'gender': 'male', 'skin_color': 'green', 'hair_color': 'n/a', 'height': '173', 'eye_color': 'black', 'mass': '74', 'homeworld': 23, 'birth_year': '44BBY'}

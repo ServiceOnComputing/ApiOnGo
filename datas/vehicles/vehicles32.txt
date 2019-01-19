@@ -1,0 +1,1 @@
+{'vehicle_class': 'fire suppression ship', 'pilots': []}

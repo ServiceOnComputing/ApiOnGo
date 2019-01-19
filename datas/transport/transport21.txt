@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:23:49.900Z', 'consumables': '2 months', 'name': 'Imperial shuttle', 'created': '2014-12-15T13:04:47.235Z', 'cargo_capacity': '80000', 'passengers': '20', 'max_atmosphering_speed': '850', 'crew': '6', 'length': '20', 'model': 'Lambda-class T-4a shuttle', 'cost_in_credits': '240000', 'manufacturer': 'Sienar Fleet Systems'}

@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.432Z', 'climate': 'temperate', 'surface_water': 'unknown', 'name': 'Coruscant', 'diameter': '12240', 'rotation_period': '24', 'created': '2014-12-10T11:54:13.921Z', 'terrain': 'cityscape, mountains', 'gravity': '1 standard', 'orbital_period': '368', 'population': '1000000000000'}

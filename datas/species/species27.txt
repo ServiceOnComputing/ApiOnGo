@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:36:42.193Z', 'classification': 'amphibian', 'name': 'Chagrian', 'designation': 'sentient', 'created': '2014-12-20T10:53:28.795Z', 'eye_colors': 'blue', 'people': [59], 'skin_colors': 'blue', 'language': 'Chagria', 'hair_colors': 'none', 'homeworld': 50, 'average_lifespan': 'unknown', 'average_height': '190'}

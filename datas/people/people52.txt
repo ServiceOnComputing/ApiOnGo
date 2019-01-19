@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.424Z', 'name': 'Kit Fisto', 'created': '2014-12-20T10:18:57.202Z', 'gender': 'male', 'skin_color': 'green', 'hair_color': 'none', 'height': '196', 'eye_color': 'black', 'mass': '87', 'homeworld': 44, 'birth_year': 'unknown'}

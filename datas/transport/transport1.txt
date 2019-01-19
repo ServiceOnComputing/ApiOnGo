@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:23:49.867Z', 'consumables': '1 year', 'name': 'CR90 corvette', 'created': '2014-12-10T14:20:33.369Z', 'cargo_capacity': '3000000', 'passengers': '600', 'max_atmosphering_speed': '950', 'crew': '30-165', 'length': '150', 'model': 'CR90 corvette', 'cost_in_credits': '3500000', 'manufacturer': 'Corellian Engineering Corporation'}

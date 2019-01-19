@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.323Z', 'name': 'Biggs Darklighter', 'created': '2014-12-10T15:59:50.509Z', 'gender': 'male', 'skin_color': 'light', 'hair_color': 'black', 'height': '183', 'eye_color': 'brown', 'mass': '84', 'homeworld': 1, 'birth_year': '24BBY'}

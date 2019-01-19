@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.444Z', 'climate': 'artificial temperate ', 'surface_water': '0', 'name': 'Polis Massa', 'diameter': '0', 'rotation_period': '24', 'created': '2014-12-10T13:33:46.405Z', 'terrain': 'airless asteroid', 'gravity': '0.56 standard', 'orbital_period': '590', 'population': '1000000'}

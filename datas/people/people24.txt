@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.357Z', 'name': 'Lando Calrissian', 'created': '2014-12-15T12:56:32.683Z', 'gender': 'male', 'skin_color': 'dark', 'hair_color': 'black', 'height': '177', 'eye_color': 'brown', 'mass': '79', 'homeworld': 30, 'birth_year': '31BBY'}

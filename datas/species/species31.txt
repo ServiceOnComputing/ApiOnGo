@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:36:42.200Z', 'classification': 'amphibian', 'name': 'Besalisk', 'designation': 'sentient', 'created': '2014-12-20T17:28:28.821Z', 'eye_colors': 'yellow', 'people': [71], 'skin_colors': 'brown', 'language': 'besalisk', 'hair_colors': 'none', 'homeworld': 55, 'average_lifespan': '75', 'average_height': '178'}

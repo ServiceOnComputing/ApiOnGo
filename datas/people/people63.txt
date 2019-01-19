@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.455Z', 'name': 'Luminara Unduli', 'created': '2014-12-20T16:45:53.668Z', 'gender': 'female', 'skin_color': 'yellow', 'hair_color': 'black', 'height': '170', 'eye_color': 'blue', 'mass': '56.2', 'homeworld': 51, 'birth_year': '58BBY'}

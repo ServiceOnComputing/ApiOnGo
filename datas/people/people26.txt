@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.362Z', 'name': 'Ackbar', 'created': '2014-12-18T11:07:50.584Z', 'gender': 'male', 'skin_color': 'brown mottle', 'hair_color': 'none', 'height': '180', 'eye_color': 'orange', 'mass': '83', 'homeworld': 31, 'birth_year': '41BBY'}

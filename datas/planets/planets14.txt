@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.442Z', 'climate': 'tropical', 'surface_water': '60', 'name': 'Kashyyyk', 'diameter': '12765', 'rotation_period': '26', 'created': '2014-12-10T13:32:00.124Z', 'terrain': 'jungle, forests, lakes, rivers', 'gravity': '1 standard', 'orbital_period': '381', 'population': '45000000'}

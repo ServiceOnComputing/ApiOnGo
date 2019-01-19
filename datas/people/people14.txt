@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.334Z', 'name': 'Han Solo', 'created': '2014-12-10T16:49:14.582Z', 'gender': 'male', 'skin_color': 'fair', 'hair_color': 'brown', 'height': '180', 'eye_color': 'brown', 'mass': '80', 'homeworld': 22, 'birth_year': '29BBY'}

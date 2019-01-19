@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.445Z', 'name': 'Gregar Typho', 'created': '2014-12-20T11:10:10.381Z', 'gender': 'male', 'skin_color': 'dark', 'hair_color': 'black', 'height': '185', 'eye_color': 'brown', 'mass': '85', 'homeworld': 8, 'birth_year': 'unknown'}

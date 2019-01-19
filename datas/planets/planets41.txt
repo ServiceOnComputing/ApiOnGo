@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.489Z', 'climate': 'unknown', 'surface_water': 'unknown', 'name': 'Tund', 'diameter': '12190', 'rotation_period': '48', 'created': '2014-12-20T10:07:29.578Z', 'terrain': 'barren, ash', 'gravity': 'unknown', 'orbital_period': '1770', 'population': '0'}

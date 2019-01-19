@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:23:49.915Z', 'consumables': '500 days', 'name': 'Droid control ship', 'created': '2014-12-19T17:04:06.323Z', 'cargo_capacity': '4000000000', 'passengers': '139000', 'max_atmosphering_speed': 'n/a', 'crew': '175', 'length': '3170', 'model': 'Lucrehulk-class Droid Control Ship', 'cost_in_credits': 'unknown', 'manufacturer': 'Hoersch-Kessel Drive, Inc.'}

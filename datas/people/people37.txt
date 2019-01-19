@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.388Z', 'name': 'Rugor Nass', 'created': '2014-12-19T17:33:38.909Z', 'gender': 'male', 'skin_color': 'green', 'hair_color': 'none', 'height': '206', 'eye_color': 'orange', 'mass': 'unknown', 'homeworld': 8, 'birth_year': 'unknown'}

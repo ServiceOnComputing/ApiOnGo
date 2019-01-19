@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.430Z', 'climate': 'temperate', 'surface_water': '12', 'name': 'Naboo', 'diameter': '12120', 'rotation_period': '26', 'created': '2014-12-10T11:52:31.066Z', 'terrain': 'grassy hills, swamps, forests, mountains', 'gravity': '1 standard', 'orbital_period': '312', 'population': '4500000000'}

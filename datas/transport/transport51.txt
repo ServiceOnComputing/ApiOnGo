@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:23:49.935Z', 'consumables': '2 years', 'name': 'Republic Assault ship', 'created': '2014-12-20T18:08:42.926Z', 'cargo_capacity': '11250000', 'passengers': '16000', 'max_atmosphering_speed': 'unknown', 'crew': '700', 'length': '752', 'model': 'Acclamator I-class assault ship', 'cost_in_credits': 'unknown', 'manufacturer': 'Rothana Heavy Engineering'}

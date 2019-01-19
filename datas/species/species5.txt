@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:36:42.146Z', 'classification': 'gastropod', 'name': 'Hutt', 'designation': 'sentient', 'created': '2014-12-10T17:12:50.410Z', 'eye_colors': 'yellow, red', 'people': [16], 'skin_colors': 'green, brown, tan', 'language': 'Huttese', 'hair_colors': 'n/a', 'homeworld': 24, 'average_lifespan': '1000', 'average_height': '300'}

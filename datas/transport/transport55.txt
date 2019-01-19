@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:30:21.739Z', 'consumables': '7 days', 'name': 'Neimoidian shuttle', 'created': '2014-12-20T18:25:44.912Z', 'cargo_capacity': '1000', 'passengers': '6', 'max_atmosphering_speed': '880', 'crew': '2', 'length': '20', 'model': 'Sheathipede-class transport shuttle', 'cost_in_credits': 'unknown', 'manufacturer': 'Haor Chall Engineering'}

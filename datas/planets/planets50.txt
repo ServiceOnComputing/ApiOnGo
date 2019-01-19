@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.506Z', 'climate': 'temperate', 'surface_water': 'unknown', 'name': 'Champala', 'diameter': 'unknown', 'rotation_period': '27', 'created': '2014-12-20T10:52:51.524Z', 'terrain': 'oceans, rainforests, plateaus', 'gravity': '1', 'orbital_period': '318', 'population': '3500000000'}

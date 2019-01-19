@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.486Z', 'name': 'Shaak Ti', 'created': '2014-12-20T18:44:01.103Z', 'gender': 'female', 'skin_color': 'red, blue, white', 'hair_color': 'none', 'height': '178', 'eye_color': 'black', 'mass': '57', 'homeworld': 58, 'birth_year': 'unknown'}

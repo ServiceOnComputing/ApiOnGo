@@ -1,0 +1,1 @@
+{'vehicle_class': 'assault walker', 'pilots': []}

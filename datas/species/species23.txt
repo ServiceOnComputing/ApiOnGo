@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:36:42.186Z', 'classification': 'mammal', 'name': 'Tholothian', 'designation': 'sentient', 'created': '2014-12-20T10:29:13.798Z', 'eye_colors': 'blue, indigo', 'people': [55], 'skin_colors': 'dark', 'language': 'unknown', 'hair_colors': 'unknown', 'homeworld': 46, 'average_lifespan': 'unknown', 'average_height': 'unknown'}

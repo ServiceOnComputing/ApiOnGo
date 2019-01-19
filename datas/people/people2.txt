@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.309Z', 'name': 'C-3PO', 'created': '2014-12-10T15:10:51.357Z', 'gender': 'n/a', 'skin_color': 'gold', 'hair_color': 'n/a', 'height': '167', 'eye_color': 'yellow', 'mass': '75', 'homeworld': 1, 'birth_year': '112BBY'}

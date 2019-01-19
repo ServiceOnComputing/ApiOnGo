@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:30:21.665Z', 'consumables': '0', 'name': 'T-16 skyhopper', 'created': '2014-12-10T16:01:52.434Z', 'cargo_capacity': '50', 'passengers': '1', 'max_atmosphering_speed': '1200', 'crew': '1', 'length': '10.4 ', 'model': 'T-16 skyhopper', 'cost_in_credits': '14500', 'manufacturer': 'Incom Corporation'}

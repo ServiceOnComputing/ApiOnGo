@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.407Z', 'name': 'Bib Fortuna', 'created': '2014-12-20T09:47:02.512Z', 'gender': 'male', 'skin_color': 'pale', 'hair_color': 'none', 'height': '180', 'eye_color': 'pink', 'mass': 'unknown', 'homeworld': 37, 'birth_year': 'unknown'}

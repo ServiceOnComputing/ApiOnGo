@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.508Z', 'climate': 'unknown', 'surface_water': 'unknown', 'name': 'Mirial', 'diameter': 'unknown', 'rotation_period': 'unknown', 'created': '2014-12-20T16:44:46.318Z', 'terrain': 'deserts', 'gravity': 'unknown', 'orbital_period': 'unknown', 'population': 'unknown'}

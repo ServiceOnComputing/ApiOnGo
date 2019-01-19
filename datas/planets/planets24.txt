@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.460Z', 'climate': 'temperate', 'surface_water': 'unknown', 'name': 'Nal Hutta', 'diameter': '12150', 'rotation_period': '87', 'created': '2014-12-10T17:11:29.452Z', 'terrain': 'urban, oceans, swamps, bogs', 'gravity': '1 standard', 'orbital_period': '413', 'population': '7000000000'}

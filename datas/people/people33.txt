@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.379Z', 'name': 'Finis Valorum', 'created': '2014-12-19T17:21:45.915Z', 'gender': 'male', 'skin_color': 'fair', 'hair_color': 'blond', 'height': '170', 'eye_color': 'blue', 'mass': 'unknown', 'homeworld': 9, 'birth_year': '91BBY'}

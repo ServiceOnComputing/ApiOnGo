@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:30:21.772Z', 'consumables': '1 day', 'name': 'AT-RT', 'created': '2014-12-20T20:47:49.189Z', 'cargo_capacity': '20', 'passengers': '0', 'max_atmosphering_speed': '90', 'crew': '1', 'length': '3.2', 'model': 'All Terrain Recon Transport', 'cost_in_credits': '40000', 'manufacturer': 'Kuat Drive Yards'}

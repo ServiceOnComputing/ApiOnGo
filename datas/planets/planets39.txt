@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.485Z', 'climate': 'temperate, artic', 'surface_water': 'unknown', 'name': 'Vulpter', 'diameter': '14900', 'rotation_period': '22', 'created': '2014-12-20T09:56:58.874Z', 'terrain': 'urban, barren', 'gravity': '1', 'orbital_period': '391', 'population': '421000000'}

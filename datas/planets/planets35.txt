@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.478Z', 'climate': 'arid, temperate, tropical', 'surface_water': 'unknown', 'name': 'Malastare', 'diameter': '18880', 'rotation_period': '26', 'created': '2014-12-19T17:52:13.106Z', 'terrain': 'swamps, deserts, jungles, mountains', 'gravity': '1.56', 'orbital_period': '201', 'population': '2000000000'}

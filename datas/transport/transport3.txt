@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:30:21.661Z', 'consumables': '2 months', 'name': 'Sand Crawler', 'created': '2014-12-10T15:36:25.724Z', 'cargo_capacity': '50000', 'passengers': '30', 'max_atmosphering_speed': '30', 'crew': '46', 'length': '36.8 ', 'model': 'Digger Crawler', 'cost_in_credits': '150000', 'manufacturer': 'Corellia Mining Corporation'}

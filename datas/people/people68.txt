@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.465Z', 'name': 'Jango Fett', 'created': '2014-12-20T16:54:41.620Z', 'gender': 'male', 'skin_color': 'tan', 'hair_color': 'black', 'height': '183', 'eye_color': 'brown', 'mass': '79', 'homeworld': 53, 'birth_year': '66BBY'}

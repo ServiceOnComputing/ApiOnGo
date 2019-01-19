@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:36:42.167Z', 'classification': 'mammal', 'name': 'Dug', 'designation': 'sentient', 'created': '2014-12-19T17:53:11.214Z', 'eye_colors': 'yellow, blue', 'people': [41], 'skin_colors': 'brown, purple, grey, red', 'language': 'Dugese', 'hair_colors': 'none', 'homeworld': 35, 'average_lifespan': 'unknown', 'average_height': '100'}

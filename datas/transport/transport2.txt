@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:23:49.870Z', 'consumables': '2 years', 'name': 'Star Destroyer', 'created': '2014-12-10T15:08:19.848Z', 'cargo_capacity': '36000000', 'passengers': 'n/a', 'max_atmosphering_speed': '975', 'crew': '47,060', 'length': '1,600', 'model': 'Imperial I-class Star Destroyer', 'cost_in_credits': '150000000', 'manufacturer': 'Kuat Drive Yards'}

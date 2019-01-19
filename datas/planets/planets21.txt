@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.454Z', 'climate': 'polluted', 'surface_water': 'unknown', 'name': 'Eriadu', 'diameter': '13490', 'rotation_period': '24', 'created': '2014-12-10T16:26:54.384Z', 'terrain': 'cityscape', 'gravity': '1 standard', 'orbital_period': '360', 'population': '22000000000'}

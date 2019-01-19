@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.466Z', 'climate': 'unknown', 'surface_water': 'unknown', 'name': 'unknown', 'diameter': '0', 'rotation_period': '0', 'created': '2014-12-15T12:25:59.569Z', 'terrain': 'unknown', 'gravity': 'unknown', 'orbital_period': '0', 'population': 'unknown'}

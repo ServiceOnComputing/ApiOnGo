@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.427Z', 'climate': 'temperate', 'surface_water': '0', 'name': 'Bespin', 'diameter': '118000', 'rotation_period': '12', 'created': '2014-12-10T11:43:55.240Z', 'terrain': 'gas giant', 'gravity': '1.5 (surface), 1 standard (Cloud City)', 'orbital_period': '5110', 'population': '6000000'}

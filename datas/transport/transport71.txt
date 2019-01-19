@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:30:21.765Z', 'consumables': 'none', 'name': 'Corporate Alliance tank droid', 'created': '2014-12-20T20:26:55.522Z', 'cargo_capacity': 'none', 'passengers': '4', 'max_atmosphering_speed': '100', 'crew': '0', 'length': '10.96', 'model': 'NR-N99 Persuader-class droid enforcer', 'cost_in_credits': '49000', 'manufacturer': 'Techno Union'}

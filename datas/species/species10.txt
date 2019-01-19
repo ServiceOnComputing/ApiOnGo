@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:36:42.157Z', 'classification': 'mammal', 'name': 'Sullustan', 'designation': 'sentient', 'created': '2014-12-18T11:26:20.103Z', 'eye_colors': 'black', 'people': [31], 'skin_colors': 'pale', 'language': 'Sullutese', 'hair_colors': 'none', 'homeworld': 33, 'average_lifespan': 'unknown', 'average_height': '180'}

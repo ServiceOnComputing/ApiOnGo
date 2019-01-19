@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:30:21.749Z', 'consumables': 'unknown', 'name': 'Emergency Firespeeder', 'created': '2014-12-20T19:50:58.559Z', 'cargo_capacity': 'unknown', 'passengers': 'unknown', 'max_atmosphering_speed': 'unknown', 'crew': '2', 'length': 'unknown', 'model': 'Fire suppression speeder', 'cost_in_credits': 'unknown', 'manufacturer': 'unknown'}

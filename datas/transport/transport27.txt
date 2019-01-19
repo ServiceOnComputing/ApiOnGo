@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:23:49.907Z', 'consumables': '1 week', 'name': 'A-wing', 'created': '2014-12-18T11:16:34.542Z', 'cargo_capacity': '40', 'passengers': '0', 'max_atmosphering_speed': '1300', 'crew': '1', 'length': '9.6', 'model': 'RZ-1 A-wing Interceptor', 'cost_in_credits': '175000', 'manufacturer': 'Alliance Underground Engineering, Incom Corporation'}

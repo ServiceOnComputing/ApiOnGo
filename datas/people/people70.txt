@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.470Z', 'name': 'Dexter Jettster', 'created': '2014-12-20T17:28:27.248Z', 'gender': 'male', 'skin_color': 'brown', 'hair_color': 'none', 'height': '198', 'eye_color': 'yellow', 'mass': '102', 'homeworld': 55, 'birth_year': 'unknown'}

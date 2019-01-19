@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:30:21.679Z', 'consumables': 'none', 'name': 'AT-ST', 'created': '2014-12-15T12:46:42.384Z', 'cargo_capacity': '200', 'passengers': '0', 'max_atmosphering_speed': '90', 'crew': '2', 'length': '2', 'model': 'All Terrain Scout Transport', 'cost_in_credits': 'unknown', 'manufacturer': 'Kuat Drive Yards, Imperial Department of Military Research'}

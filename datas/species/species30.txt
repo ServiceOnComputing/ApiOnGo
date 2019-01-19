@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:36:42.199Z', 'classification': 'reptilian', 'name': 'Clawdite', 'designation': 'sentient', 'created': '2014-12-20T16:57:46.171Z', 'eye_colors': 'yellow', 'people': [70], 'skin_colors': 'green, yellow', 'language': 'Clawdite', 'hair_colors': 'none', 'homeworld': 54, 'average_lifespan': '70', 'average_height': '180'}

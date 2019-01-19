@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:36:42.195Z', 'classification': 'insectoid', 'name': 'Geonosian', 'designation': 'sentient', 'created': '2014-12-20T16:40:45.618Z', 'eye_colors': 'green, hazel', 'people': [63], 'skin_colors': 'green, brown', 'language': 'Geonosian', 'hair_colors': 'none', 'homeworld': 11, 'average_lifespan': 'unknown', 'average_height': '178'}

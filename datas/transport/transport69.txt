@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:30:21.759Z', 'consumables': 'none', 'name': 'Raddaugh Gnasp fluttercraft', 'created': '2014-12-20T20:21:55.648Z', 'cargo_capacity': '20', 'passengers': '0', 'max_atmosphering_speed': '310', 'crew': '2', 'length': '7', 'model': 'Raddaugh Gnasp fluttercraft', 'cost_in_credits': '14750', 'manufacturer': 'Appazanna Engineering Works'}

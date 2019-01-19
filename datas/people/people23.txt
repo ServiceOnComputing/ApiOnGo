@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.355Z', 'name': 'Bossk', 'created': '2014-12-15T12:53:49.297Z', 'gender': 'male', 'skin_color': 'green', 'hair_color': 'none', 'height': '190', 'eye_color': 'red', 'mass': '113', 'homeworld': 29, 'birth_year': '53BBY'}

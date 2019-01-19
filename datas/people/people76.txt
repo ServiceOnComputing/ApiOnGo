@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.484Z', 'name': 'San Hill', 'created': '2014-12-20T17:58:17.049Z', 'gender': 'male', 'skin_color': 'grey', 'hair_color': 'none', 'height': '191', 'eye_color': 'gold', 'mass': 'unknown', 'homeworld': 57, 'birth_year': 'unknown'}

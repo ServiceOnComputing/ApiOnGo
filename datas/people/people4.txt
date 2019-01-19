@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.313Z', 'name': 'Darth Vader', 'created': '2014-12-10T15:18:20.704Z', 'gender': 'male', 'skin_color': 'white', 'hair_color': 'none', 'height': '202', 'eye_color': 'yellow', 'mass': '136', 'homeworld': 1, 'birth_year': '41.9BBY'}

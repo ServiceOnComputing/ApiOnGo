@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.476Z', 'name': 'Jocasta Nu', 'created': '2014-12-20T17:32:51.996Z', 'gender': 'female', 'skin_color': 'fair', 'hair_color': 'white', 'height': '167', 'eye_color': 'blue', 'mass': 'unknown', 'homeworld': 9, 'birth_year': 'unknown'}

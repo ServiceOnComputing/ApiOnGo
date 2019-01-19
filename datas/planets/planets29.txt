@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.468Z', 'climate': 'arid', 'surface_water': 'unknown', 'name': 'Trandosha', 'diameter': '0', 'rotation_period': '25', 'created': '2014-12-15T12:53:47.695Z', 'terrain': 'mountains, seas, grasslands, deserts', 'gravity': '0.62 standard', 'orbital_period': '371', 'population': '42000000'}

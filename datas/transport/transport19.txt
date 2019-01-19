@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:30:21.681Z', 'consumables': '1 day', 'name': 'Storm IV Twin-Pod cloud car', 'created': '2014-12-15T12:58:50.530Z', 'cargo_capacity': '10', 'passengers': '0', 'max_atmosphering_speed': '1500', 'crew': '2', 'length': '7', 'model': 'Storm IV Twin-Pod', 'cost_in_credits': '75000', 'manufacturer': 'Bespin Motors'}

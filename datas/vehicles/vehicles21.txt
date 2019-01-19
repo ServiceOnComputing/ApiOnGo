@@ -1,0 +1,1 @@
+{'vehicle_class': 'repulsorcraft', 'pilots': [11]}

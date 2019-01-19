@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.449Z', 'climate': 'temperate, moist', 'surface_water': 'unknown', 'name': 'Cato Neimoidia', 'diameter': '0', 'rotation_period': '25', 'created': '2014-12-10T13:46:28.704Z', 'terrain': 'mountains, fields, forests, rock arches', 'gravity': '1 standard', 'orbital_period': '278', 'population': '10000000'}

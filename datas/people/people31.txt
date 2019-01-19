@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.375Z', 'name': 'Qui-Gon Jinn', 'created': '2014-12-19T16:54:53.618Z', 'gender': 'male', 'skin_color': 'fair', 'hair_color': 'brown', 'height': '193', 'eye_color': 'blue', 'mass': '89', 'homeworld': 28, 'birth_year': '92BBY'}

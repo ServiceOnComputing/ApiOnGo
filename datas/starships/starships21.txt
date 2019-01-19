@@ -1,0 +1,1 @@
+{'pilots': [44], 'MGLT': 'unknown', 'starship_class': 'Space Transport', 'hyperdrive_rating': '1.5'}

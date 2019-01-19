@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.483Z', 'climate': 'unknown', 'surface_water': 'unknown', 'name': 'Aleen Minor', 'diameter': 'unknown', 'rotation_period': 'unknown', 'created': '2014-12-20T09:52:23.452Z', 'terrain': 'unknown', 'gravity': 'unknown', 'orbital_period': 'unknown', 'population': 'unknown'}

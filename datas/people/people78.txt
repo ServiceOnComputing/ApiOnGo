@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.488Z', 'name': 'Grievous', 'created': '2014-12-20T19:43:53.348Z', 'gender': 'male', 'skin_color': 'brown, white', 'hair_color': 'none', 'height': '216', 'eye_color': 'green, yellow', 'mass': '159', 'homeworld': 59, 'birth_year': 'unknown'}

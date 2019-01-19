@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:30:21.762Z', 'consumables': '20 days', 'name': 'Clone turbo tank', 'created': '2014-12-20T20:24:45.587Z', 'cargo_capacity': '30000', 'passengers': '300', 'max_atmosphering_speed': '160', 'crew': '20', 'length': '49.4', 'model': 'HAVw A6 Juggernaut', 'cost_in_credits': '350000', 'manufacturer': 'Kuat Drive Yards'}

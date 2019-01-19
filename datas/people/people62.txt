@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.453Z', 'name': 'Poggle the Lesser', 'created': '2014-12-20T16:40:43.977Z', 'gender': 'male', 'skin_color': 'green', 'hair_color': 'none', 'height': '183', 'eye_color': 'yellow', 'mass': '80', 'homeworld': 11, 'birth_year': 'unknown'}

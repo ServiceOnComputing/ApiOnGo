@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:36:42.212Z', 'classification': 'mammal', 'name': "Pau'an", 'designation': 'sentient', 'created': '2014-12-20T20:35:06.777Z', 'eye_colors': 'black', 'people': [83], 'skin_colors': 'grey', 'language': 'Utapese', 'hair_colors': 'none', 'homeworld': 12, 'average_lifespan': '700', 'average_height': '190'}

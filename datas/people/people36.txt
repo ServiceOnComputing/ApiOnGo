@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.385Z', 'name': 'Roos Tarpals', 'created': '2014-12-19T17:32:56.741Z', 'gender': 'male', 'skin_color': 'grey', 'hair_color': 'none', 'height': '224', 'eye_color': 'orange', 'mass': '82', 'homeworld': 8, 'birth_year': 'unknown'}

@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:23:49.880Z', 'consumables': '2 months', 'name': 'Millennium Falcon', 'created': '2014-12-10T16:59:45.094Z', 'cargo_capacity': '100000', 'passengers': '6', 'max_atmosphering_speed': '1050', 'crew': '4', 'length': '34.37', 'model': 'YT-1300 light freighter', 'cost_in_credits': '100000', 'manufacturer': 'Corellian Engineering Corporation'}

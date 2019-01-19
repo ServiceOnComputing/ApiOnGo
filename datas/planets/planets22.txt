@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.456Z', 'climate': 'temperate', 'surface_water': '70', 'name': 'Corellia', 'diameter': '11000', 'rotation_period': '25', 'created': '2014-12-10T16:49:12.453Z', 'terrain': 'plains, urban, hills, forests', 'gravity': '1 standard', 'orbital_period': '329', 'population': '3000000000'}

@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:30:21.697Z', 'consumables': 'none', 'name': 'Vulture Droid', 'created': '2014-12-19T17:09:53.584Z', 'cargo_capacity': '0', 'passengers': '0', 'max_atmosphering_speed': '1200', 'crew': '0', 'length': '3.5', 'model': 'Vulture-class droid starfighter', 'cost_in_credits': 'unknown', 'manufacturer': 'Haor Chall Engineering, Baktoid Armor Workshop'}

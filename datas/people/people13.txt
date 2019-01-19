@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.332Z', 'name': 'Chewbacca', 'created': '2014-12-10T16:42:45.066Z', 'gender': 'male', 'skin_color': 'unknown', 'hair_color': 'brown', 'height': '228', 'eye_color': 'blue', 'mass': '112', 'homeworld': 14, 'birth_year': '200BBY'}

@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:36:42.202Z', 'classification': 'amphibian', 'name': 'Kaminoan', 'designation': 'sentient', 'created': '2014-12-20T17:31:24.838Z', 'eye_colors': 'black', 'people': [72, 73], 'skin_colors': 'grey, blue', 'language': 'Kaminoan', 'hair_colors': 'none', 'homeworld': 10, 'average_lifespan': '80', 'average_height': '220'}

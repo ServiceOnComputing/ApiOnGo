@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.349Z', 'name': 'Boba Fett', 'created': '2014-12-15T12:49:32.457Z', 'gender': 'male', 'skin_color': 'fair', 'hair_color': 'black', 'height': '183', 'eye_color': 'brown', 'mass': '78.2', 'homeworld': 10, 'birth_year': '31.5BBY'}

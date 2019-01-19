@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:30:21.725Z', 'consumables': 'unknown', 'name': 'LAAT/c', 'created': '2014-12-20T18:02:46.802Z', 'cargo_capacity': '40000', 'passengers': '0', 'max_atmosphering_speed': '620', 'crew': '1', 'length': '28.82', 'model': 'Low Altitude Assault Transport/carrier', 'cost_in_credits': 'unknown', 'manufacturer': 'Rothana Heavy Engineering'}

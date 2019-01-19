@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:36:42.173Z', 'classification': 'unknown', 'name': 'Vulptereen', 'designation': 'sentient', 'created': '2014-12-20T09:57:33.128Z', 'eye_colors': 'yellow', 'people': [48], 'skin_colors': 'grey', 'language': 'vulpterish', 'hair_colors': 'none', 'homeworld': 39, 'average_lifespan': 'unknown', 'average_height': '100'}

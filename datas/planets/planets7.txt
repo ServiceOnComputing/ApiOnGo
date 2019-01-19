@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.429Z', 'climate': 'temperate', 'surface_water': '8', 'name': 'Endor', 'diameter': '4900', 'rotation_period': '18', 'created': '2014-12-10T11:50:29.349Z', 'terrain': 'forests, mountains, lakes', 'gravity': '0.85 standard', 'orbital_period': '402', 'population': '30000000'}

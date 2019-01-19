@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.434Z', 'climate': 'temperate', 'surface_water': '100', 'name': 'Kamino', 'diameter': '19720', 'rotation_period': '27', 'created': '2014-12-10T12:45:06.577Z', 'terrain': 'ocean', 'gravity': '1 standard', 'orbital_period': '463', 'population': '1000000000'}

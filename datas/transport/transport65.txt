@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:23:49.953Z', 'consumables': '5 days', 'name': 'arc-170', 'created': '2014-12-20T20:03:48.603Z', 'cargo_capacity': '110', 'passengers': '0', 'max_atmosphering_speed': '1000', 'crew': '3', 'length': '14.5', 'model': 'Aggressive Reconnaissance-170 starfighte', 'cost_in_credits': '155000', 'manufacturer': 'Incom Corporation, Subpro Corporation'}

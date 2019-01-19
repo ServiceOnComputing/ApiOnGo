@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:23:49.959Z', 'consumables': '7 days', 'name': 'Belbullab-22 starfighter', 'created': '2014-12-20T20:38:05.031Z', 'cargo_capacity': '140', 'passengers': '0', 'max_atmosphering_speed': '1100', 'crew': '1', 'length': '6.71', 'model': 'Belbullab-22 starfighter', 'cost_in_credits': '168000', 'manufacturer': 'Feethan Ottraw Scalable Assemblies'}

@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.392Z', 'name': 'Ric Oli¨¦', 'created': '2014-12-19T17:45:01.522Z', 'gender': 'male', 'skin_color': 'fair', 'hair_color': 'brown', 'height': '183', 'eye_color': 'blue', 'mass': 'unknown', 'homeworld': 8, 'birth_year': 'unknown'}

@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:30:21.700Z', 'consumables': 'unknown', 'name': 'Multi-Troop Transport', 'created': '2014-12-19T17:12:04.400Z', 'cargo_capacity': '12000', 'passengers': '112', 'max_atmosphering_speed': '35', 'crew': '4', 'length': '31', 'model': 'Multi-Troop Transport', 'cost_in_credits': '138000', 'manufacturer': 'Baktoid Armor Workshop'}

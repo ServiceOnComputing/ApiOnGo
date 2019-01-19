@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.464Z', 'climate': 'temperate', 'surface_water': '10', 'name': 'Ord Mantell', 'diameter': '14050', 'rotation_period': '26', 'created': '2014-12-15T12:23:41.661Z', 'terrain': 'plains, seas, mesas', 'gravity': '1 standard', 'orbital_period': '334', 'population': '4000000000'}

@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.417Z', 'name': 'Ben Quadinaros', 'created': '2014-12-20T10:08:33.777Z', 'gender': 'male', 'skin_color': 'grey, green, yellow', 'hair_color': 'none', 'height': '163', 'eye_color': 'orange', 'mass': '65', 'homeworld': 41, 'birth_year': 'unknown'}

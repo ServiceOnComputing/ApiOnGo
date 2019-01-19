@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:30:21.670Z', 'consumables': '2 days', 'name': 'TIE/LN starfighter', 'created': '2014-12-10T16:33:52.860Z', 'cargo_capacity': '65', 'passengers': '0', 'max_atmosphering_speed': '1200', 'crew': '1', 'length': '6.4', 'model': 'Twin Ion Engine/Ln Starfighter', 'cost_in_credits': 'unknown', 'manufacturer': 'Sienar Fleet Systems'}

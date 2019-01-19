@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.481Z', 'name': 'Wat Tambor', 'created': '2014-12-20T17:53:52.607Z', 'gender': 'male', 'skin_color': 'green, grey', 'hair_color': 'none', 'height': '193', 'eye_color': 'unknown', 'mass': '48', 'homeworld': 56, 'birth_year': 'unknown'}

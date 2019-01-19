@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.450Z', 'climate': 'hot', 'surface_water': 'unknown', 'name': 'Saleucami', 'diameter': '14920', 'rotation_period': '26', 'created': '2014-12-10T13:47:46.874Z', 'terrain': 'caves, desert, mountains, volcanoes', 'gravity': 'unknown', 'orbital_period': '392', 'population': '1400000000'}

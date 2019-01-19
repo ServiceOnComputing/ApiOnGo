@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:23:49.902Z', 'consumables': '2 years', 'name': 'EF76 Nebulon-B escort frigate', 'created': '2014-12-15T13:06:30.813Z', 'cargo_capacity': '6000000', 'passengers': '75', 'max_atmosphering_speed': '800', 'crew': '854', 'length': '300', 'model': 'EF76 Nebulon-B escort frigate', 'cost_in_credits': '8500000', 'manufacturer': 'Kuat Drive Yards'}

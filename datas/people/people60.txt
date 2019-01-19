@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.449Z', 'name': 'Cord¨¦', 'created': '2014-12-20T11:11:39.630Z', 'gender': 'female', 'skin_color': 'light', 'hair_color': 'brown', 'height': '157', 'eye_color': 'brown', 'mass': 'unknown', 'homeworld': 8, 'birth_year': 'unknown'}

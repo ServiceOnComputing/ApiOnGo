@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:30:21.716Z', 'consumables': 'unknown', 'name': 'Koro-2 Exodrive airspeeder', 'created': '2014-12-20T17:17:33.526Z', 'cargo_capacity': '80', 'passengers': '1', 'max_atmosphering_speed': '800', 'crew': '1', 'length': '6.6', 'model': 'Koro-2 Exodrive airspeeder', 'cost_in_credits': 'unknown', 'manufacturer': 'Desler Gizh Outworld Mobility Corporation'}

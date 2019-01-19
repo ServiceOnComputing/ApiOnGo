@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:36:42.207Z', 'classification': 'mammal', 'name': 'Muun', 'designation': 'sentient', 'created': '2014-12-20T17:58:19.088Z', 'eye_colors': 'black', 'people': [77], 'skin_colors': 'grey, white', 'language': 'Muun', 'hair_colors': 'none', 'homeworld': 57, 'average_lifespan': '100', 'average_height': '190'}

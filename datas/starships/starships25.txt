@@ -1,0 +1,1 @@
+{'pilots': [35], 'MGLT': 'unknown', 'starship_class': 'yacht', 'hyperdrive_rating': '0.9'}

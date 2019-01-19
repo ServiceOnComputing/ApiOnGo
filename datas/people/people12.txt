@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.330Z', 'name': 'Wilhuff Tarkin', 'created': '2014-12-10T16:26:56.138Z', 'gender': 'male', 'skin_color': 'fair', 'hair_color': 'auburn, grey', 'height': '180', 'eye_color': 'blue', 'mass': 'unknown', 'homeworld': 21, 'birth_year': '64BBY'}

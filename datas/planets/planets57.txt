@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.519Z', 'climate': 'temperate', 'surface_water': '25', 'name': 'Muunilinst', 'diameter': '13800', 'rotation_period': '28', 'created': '2014-12-20T17:57:47.420Z', 'terrain': 'plains, forests, hills, mountains', 'gravity': '1', 'orbital_period': '412', 'population': '5000000000'}

@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.516Z', 'climate': 'frigid', 'surface_water': '100', 'name': 'Ojom', 'diameter': 'unknown', 'rotation_period': 'unknown', 'created': '2014-12-20T17:27:41.286Z', 'terrain': 'oceans, glaciers', 'gravity': 'unknown', 'orbital_period': 'unknown', 'population': '500000000'}

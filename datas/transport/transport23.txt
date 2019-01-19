@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:30:21.684Z', 'consumables': 'Live food tanks', 'name': 'Sail barge', 'created': '2014-12-18T10:44:14.217Z', 'cargo_capacity': '2000000', 'passengers': '500', 'max_atmosphering_speed': '100', 'crew': '26', 'length': '30', 'model': 'Modified Luxury Sail Barge', 'cost_in_credits': '285000', 'manufacturer': 'Ubrikkian Industries Custom Vehicle Division'}

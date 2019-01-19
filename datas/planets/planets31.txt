@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.471Z', 'climate': 'temperate', 'surface_water': '100', 'name': 'Mon Cala', 'diameter': '11030', 'rotation_period': '21', 'created': '2014-12-18T11:07:01.792Z', 'terrain': 'oceans, reefs, islands', 'gravity': '1', 'orbital_period': '398', 'population': '27000000000'}

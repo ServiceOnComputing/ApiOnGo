@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.420Z', 'name': 'Mace Windu', 'created': '2014-12-20T10:12:30.846Z', 'gender': 'male', 'skin_color': 'dark', 'hair_color': 'none', 'height': '188', 'eye_color': 'brown', 'mass': '84', 'homeworld': 42, 'birth_year': '72BBY'}

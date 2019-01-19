@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.446Z', 'climate': 'frigid', 'surface_water': 'unknown', 'name': 'Mygeeto', 'diameter': '10088', 'rotation_period': '12', 'created': '2014-12-10T13:43:39.139Z', 'terrain': 'glaciers, mountains, ice canyons', 'gravity': '1 standard', 'orbital_period': '167', 'population': '19000000'}

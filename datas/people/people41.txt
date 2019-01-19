@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.399Z', 'name': 'Quarsh Panaka', 'created': '2014-12-19T17:55:43.348Z', 'gender': 'male', 'skin_color': 'dark', 'hair_color': 'black', 'height': '183', 'eye_color': 'brown', 'mass': 'unknown', 'homeworld': 8, 'birth_year': '62BBY'}

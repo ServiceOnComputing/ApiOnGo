@@ -1,0 +1,1 @@
+{'vehicle_class': 'submarine', 'pilots': [10, 32]}

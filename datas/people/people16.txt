@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.338Z', 'name': 'Jabba Desilijic Tiure', 'created': '2014-12-10T17:11:31.638Z', 'gender': 'hermaphrodite', 'skin_color': 'green-tan, brown', 'hair_color': 'n/a', 'height': '175', 'eye_color': 'orange', 'mass': '1,358', 'homeworld': 24, 'birth_year': '600BBY'}

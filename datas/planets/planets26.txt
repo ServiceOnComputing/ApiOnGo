@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.463Z', 'climate': 'temperate', 'surface_water': '98', 'name': 'Bestine IV', 'diameter': '6400', 'rotation_period': '26', 'created': '2014-12-12T11:16:55.078Z', 'terrain': 'rocky islands, oceans', 'gravity': 'unknown', 'orbital_period': '680', 'population': '62000000'}

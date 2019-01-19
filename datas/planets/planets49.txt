@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.504Z', 'climate': 'temperate', 'surface_water': 'unknown', 'name': 'Dorin', 'diameter': '13400', 'rotation_period': '22', 'created': '2014-12-20T10:48:36.141Z', 'terrain': 'unknown', 'gravity': '1', 'orbital_period': '409', 'population': 'unknown'}

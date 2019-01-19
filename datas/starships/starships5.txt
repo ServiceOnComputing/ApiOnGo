@@ -1,0 +1,1 @@
+{'pilots': [13, 14, 25, 31], 'MGLT': '75', 'starship_class': 'Light freighter', 'hyperdrive_rating': '0.5'}

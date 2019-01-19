@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.474Z', 'climate': 'superheated', 'surface_water': '5', 'name': 'Sullust', 'diameter': '12780', 'rotation_period': '20', 'created': '2014-12-18T11:25:40.243Z', 'terrain': 'mountains, volcanoes, rocky deserts', 'gravity': '1', 'orbital_period': '263', 'population': '18500000000'}

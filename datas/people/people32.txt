@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.377Z', 'name': 'Nute Gunray', 'created': '2014-12-19T17:05:57.357Z', 'gender': 'male', 'skin_color': 'mottled green', 'hair_color': 'none', 'height': '191', 'eye_color': 'red', 'mass': '90', 'homeworld': 18, 'birth_year': 'unknown'}

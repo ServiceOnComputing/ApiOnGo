@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:36:42.210Z', 'classification': 'reptile', 'name': 'Kaleesh', 'designation': 'sentient', 'created': '2014-12-20T19:45:42.537Z', 'eye_colors': 'yellow', 'people': [79], 'skin_colors': 'brown, orange, tan', 'language': 'Kaleesh', 'hair_colors': 'none', 'homeworld': 59, 'average_lifespan': '80', 'average_height': '170'}

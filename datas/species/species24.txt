@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:36:42.188Z', 'classification': 'unknown', 'name': 'Iktotchi', 'designation': 'sentient', 'created': '2014-12-20T10:32:13.046Z', 'eye_colors': 'orange', 'people': [56], 'skin_colors': 'pink', 'language': 'Iktotchese', 'hair_colors': 'none', 'homeworld': 47, 'average_lifespan': 'unknown', 'average_height': '180'}

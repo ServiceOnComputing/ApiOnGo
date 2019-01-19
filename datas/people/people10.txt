@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.325Z', 'name': 'Obi-Wan Kenobi', 'created': '2014-12-10T16:16:29.192Z', 'gender': 'male', 'skin_color': 'fair', 'hair_color': 'auburn, white', 'height': '182', 'eye_color': 'blue-gray', 'mass': '77', 'homeworld': 20, 'birth_year': '57BBY'}

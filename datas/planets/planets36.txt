@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.480Z', 'climate': 'temperate', 'surface_water': 'unknown', 'name': 'Dathomir', 'diameter': '10480', 'rotation_period': '24', 'created': '2014-12-19T18:00:40.142Z', 'terrain': 'forests, deserts, savannas', 'gravity': '0.9', 'orbital_period': '491', 'population': '5200'}

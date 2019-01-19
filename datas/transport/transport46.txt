@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:23:49.928Z', 'consumables': 'unknown', 'name': 'AA-9 Coruscant freighter', 'created': '2014-12-20T17:24:23.509Z', 'cargo_capacity': 'unknown', 'passengers': '30000', 'max_atmosphering_speed': 'unknown', 'crew': 'unknown', 'length': '390', 'model': 'Botajef AA-9 Freighter-Liner', 'cost_in_credits': 'unknown', 'manufacturer': 'Botajef Shipyards'}

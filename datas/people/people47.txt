@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.414Z', 'name': 'Dud Bolt', 'created': '2014-12-20T09:57:31.858Z', 'gender': 'male', 'skin_color': 'blue, grey', 'hair_color': 'none', 'height': '94', 'eye_color': 'yellow', 'mass': '45', 'homeworld': 39, 'birth_year': 'unknown'}

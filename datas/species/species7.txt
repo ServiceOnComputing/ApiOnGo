@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:36:42.151Z', 'classification': 'reptile', 'name': 'Trandoshan', 'designation': 'sentient', 'created': '2014-12-15T13:07:47.704Z', 'eye_colors': 'yellow, orange', 'people': [24], 'skin_colors': 'brown, green', 'language': 'Dosh', 'hair_colors': 'none', 'homeworld': 29, 'average_lifespan': 'unknown', 'average_height': '200'}

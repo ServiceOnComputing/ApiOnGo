@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:30:21.752Z', 'consumables': 'none', 'name': 'Droid tri-fighter', 'created': '2014-12-20T20:05:19.992Z', 'cargo_capacity': '0', 'passengers': '0', 'max_atmosphering_speed': '1180', 'crew': '1', 'length': '5.4', 'model': 'tri-fighter', 'cost_in_credits': '20000', 'manufacturer': 'Colla Designs, Phlac-Arphocc Automata Industries'}

@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:23:49.951Z', 'consumables': '2 days', 'name': 'Jedi Interceptor', 'created': '2014-12-20T19:56:57.468Z', 'cargo_capacity': '60', 'passengers': '0', 'max_atmosphering_speed': '1500', 'crew': '1', 'length': '5.47', 'model': 'Eta-2 Actis-class light interceptor', 'cost_in_credits': '320000', 'manufacturer': 'Kuat Systems Engineering'}

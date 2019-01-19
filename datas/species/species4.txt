@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:36:42.144Z', 'classification': 'sentient', 'name': 'Rodian', 'designation': 'reptilian', 'created': '2014-12-10T17:05:26.471Z', 'eye_colors': 'black', 'people': [15], 'skin_colors': 'green, blue', 'language': 'Galatic Basic', 'hair_colors': 'n/a', 'homeworld': 23, 'average_lifespan': 'unknown', 'average_height': '170'}

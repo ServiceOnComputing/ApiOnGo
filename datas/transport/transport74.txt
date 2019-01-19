@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:23:49.961Z', 'consumables': '15 hours', 'name': 'V-wing', 'created': '2014-12-20T20:43:04.349Z', 'cargo_capacity': '60', 'passengers': '0', 'max_atmosphering_speed': '1050', 'crew': '1', 'length': '7.9', 'model': 'Alpha-3 Nimbus-class V-wing starfighter', 'cost_in_credits': '102500', 'manufacturer': 'Kuat Systems Engineering'}

@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.371Z', 'name': 'Nien Nunb', 'created': '2014-12-18T11:26:18.541Z', 'gender': 'male', 'skin_color': 'grey', 'hair_color': 'none', 'height': '160', 'eye_color': 'black', 'mass': '68', 'homeworld': 33, 'birth_year': 'unknown'}

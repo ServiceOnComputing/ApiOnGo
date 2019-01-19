@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:36:42.139Z', 'classification': 'artificial', 'name': 'Droid', 'designation': 'sentient', 'created': '2014-12-10T15:16:16.259Z', 'eye_colors': 'n/a', 'people': [2, 3, 8, 23], 'skin_colors': 'n/a', 'language': 'n/a', 'hair_colors': 'n/a', 'homeworld': None, 'average_lifespan': 'indefinite', 'average_height': 'n/a'}

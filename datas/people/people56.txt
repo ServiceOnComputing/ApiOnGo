@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.437Z', 'name': 'Yarael Poof', 'created': '2014-12-20T10:34:48.725Z', 'gender': 'male', 'skin_color': 'white', 'hair_color': 'none', 'height': '264', 'eye_color': 'yellow', 'mass': 'unknown', 'homeworld': 48, 'birth_year': 'unknown'}

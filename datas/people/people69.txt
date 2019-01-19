@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.468Z', 'name': 'Zam Wesell', 'created': '2014-12-20T16:57:44.471Z', 'gender': 'female', 'skin_color': 'fair, green, yellow', 'hair_color': 'blonde', 'height': '168', 'eye_color': 'yellow', 'mass': '55', 'homeworld': 54, 'birth_year': 'unknown'}

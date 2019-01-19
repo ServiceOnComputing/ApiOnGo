@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.478Z', 'name': 'R4-P17', 'created': '2014-12-20T17:43:36.409Z', 'gender': 'female', 'skin_color': 'silver, red', 'hair_color': 'none', 'height': '96', 'eye_color': 'red, blue', 'mass': 'unknown', 'homeworld': 28, 'birth_year': 'unknown'}

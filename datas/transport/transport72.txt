@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:30:21.768Z', 'consumables': 'none', 'name': 'Droid gunship', 'created': '2014-12-20T20:32:05.687Z', 'cargo_capacity': '0', 'passengers': '0', 'max_atmosphering_speed': '820', 'crew': '0', 'length': '12.3', 'model': 'HMP droid gunship', 'cost_in_credits': '60000', 'manufacturer': 'Baktoid Fleet Ordnance, Haor Chall Engineering'}

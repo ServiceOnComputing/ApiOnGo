@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.427Z', 'name': 'Eeth Koth', 'created': '2014-12-20T10:26:47.902Z', 'gender': 'male', 'skin_color': 'brown', 'hair_color': 'black', 'height': '171', 'eye_color': 'brown', 'mass': 'unknown', 'homeworld': 45, 'birth_year': 'unknown'}

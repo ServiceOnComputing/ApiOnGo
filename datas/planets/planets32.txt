@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.472Z', 'climate': 'temperate', 'surface_water': '40', 'name': 'Chandrila', 'diameter': '13500', 'rotation_period': '20', 'created': '2014-12-18T11:11:51.872Z', 'terrain': 'plains, forests', 'gravity': '1', 'orbital_period': '368', 'population': '1200000000'}

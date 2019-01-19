@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.525Z', 'climate': 'unknown', 'surface_water': 'unknown', 'name': 'Umbara', 'diameter': 'unknown', 'rotation_period': 'unknown', 'created': '2014-12-20T20:18:36.256Z', 'terrain': 'unknown', 'gravity': 'unknown', 'orbital_period': 'unknown', 'population': 'unknown'}

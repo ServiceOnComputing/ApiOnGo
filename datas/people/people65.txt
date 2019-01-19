@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.460Z', 'name': 'Dorm¨¦', 'created': '2014-12-20T16:49:14.640Z', 'gender': 'female', 'skin_color': 'light', 'hair_color': 'brown', 'height': '165', 'eye_color': 'brown', 'mass': 'unknown', 'homeworld': 8, 'birth_year': 'unknown'}

@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:36:42.177Z', 'classification': 'unknown', 'name': 'Toong', 'designation': 'sentient', 'created': '2014-12-20T10:08:36.795Z', 'eye_colors': 'orange', 'people': [50], 'skin_colors': 'grey, green, yellow', 'language': 'Tundan', 'hair_colors': 'none', 'homeworld': 41, 'average_lifespan': 'unknown', 'average_height': '200'}

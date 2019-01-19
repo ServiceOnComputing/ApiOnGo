@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:30:21.703Z', 'consumables': 'unknown', 'name': 'Armored Assault Tank', 'created': '2014-12-19T17:13:29.799Z', 'cargo_capacity': 'unknown', 'passengers': '6', 'max_atmosphering_speed': '55', 'crew': '4', 'length': '9.75', 'model': 'Armoured Assault Tank', 'cost_in_credits': 'unknown', 'manufacturer': 'Baktoid Armor Workshop'}

@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:30:21.728Z', 'consumables': '21 days', 'name': 'AT-TE', 'created': '2014-12-20T18:10:07.560Z', 'cargo_capacity': '10000', 'passengers': '36', 'max_atmosphering_speed': '60', 'crew': '6', 'length': '13.2', 'model': 'All Terrain Tactical Enforcer', 'cost_in_credits': 'unknown', 'manufacturer': 'Rothana Heavy Engineering, Kuat Drive Yards'}

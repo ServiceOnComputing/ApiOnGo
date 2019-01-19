@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.439Z', 'climate': 'temperate, arid, windy', 'surface_water': '0.9', 'name': 'Utapau', 'diameter': '12900', 'rotation_period': '27', 'created': '2014-12-10T12:49:01.491Z', 'terrain': 'scrublands, savanna, canyons, sinkholes', 'gravity': '1 standard', 'orbital_period': '351', 'population': '95000000'}

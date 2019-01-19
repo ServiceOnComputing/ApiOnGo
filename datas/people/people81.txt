@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.496Z', 'name': 'Sly Moore', 'created': '2014-12-20T20:18:37.619Z', 'gender': 'female', 'skin_color': 'pale', 'hair_color': 'none', 'height': '178', 'eye_color': 'white', 'mass': '48', 'homeworld': 60, 'birth_year': 'unknown'}

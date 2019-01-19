@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.476Z', 'climate': 'temperate', 'surface_water': 'unknown', 'name': 'Toydaria', 'diameter': '7900', 'rotation_period': '21', 'created': '2014-12-19T17:47:54.403Z', 'terrain': 'swamps, lakes', 'gravity': '1', 'orbital_period': '184', 'population': '11000000'}

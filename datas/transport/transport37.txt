@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:30:21.710Z', 'consumables': 'unknown', 'name': 'Tribubble bongo', 'created': '2014-12-19T17:37:37.924Z', 'cargo_capacity': '1600', 'passengers': '2', 'max_atmosphering_speed': '85', 'crew': '1', 'length': '15', 'model': 'Tribubble bongo', 'cost_in_credits': 'unknown', 'manufacturer': 'Otoh Gunga Bongameken Cooperative'}

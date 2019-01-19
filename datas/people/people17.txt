@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.341Z', 'name': 'Wedge Antilles', 'created': '2014-12-12T11:08:06.469Z', 'gender': 'male', 'skin_color': 'fair', 'hair_color': 'brown', 'height': '170', 'eye_color': 'hazel', 'mass': '77', 'homeworld': 22, 'birth_year': '21BBY'}

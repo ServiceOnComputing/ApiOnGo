@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.432Z', 'name': 'Adi Gallia', 'created': '2014-12-20T10:29:11.661Z', 'gender': 'female', 'skin_color': 'dark', 'hair_color': 'none', 'height': '184', 'eye_color': 'blue', 'mass': '50', 'homeworld': 9, 'birth_year': 'unknown'}

@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.514Z', 'climate': 'unknown', 'surface_water': 'unknown', 'name': 'Zolan', 'diameter': 'unknown', 'rotation_period': 'unknown', 'created': '2014-12-20T16:56:37.250Z', 'terrain': 'unknown', 'gravity': 'unknown', 'orbital_period': 'unknown', 'population': 'unknown'}

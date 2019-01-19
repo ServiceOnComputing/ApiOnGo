@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:23:49.930Z', 'consumables': '7 days', 'name': 'Jedi starfighter', 'created': '2014-12-20T17:35:23.906Z', 'cargo_capacity': '60', 'passengers': '0', 'max_atmosphering_speed': '1150', 'crew': '1', 'length': '8', 'model': 'Delta-7 Aethersprite-class interceptor', 'cost_in_credits': '180000', 'manufacturer': 'Kuat Systems Engineering'}

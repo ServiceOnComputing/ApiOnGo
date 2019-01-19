@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:30:21.677Z', 'consumables': 'unknown', 'name': 'AT-AT', 'created': '2014-12-15T12:38:25.937Z', 'cargo_capacity': '1000', 'passengers': '40', 'max_atmosphering_speed': '60', 'crew': '5', 'length': '20', 'model': 'All Terrain Armored Transport', 'cost_in_credits': 'unknown', 'manufacturer': 'Kuat Drive Yards, Imperial Department of Military Research'}

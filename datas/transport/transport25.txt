@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:30:21.691Z', 'consumables': '2 days', 'name': 'TIE/IN interceptor', 'created': '2014-12-18T10:50:28.225Z', 'cargo_capacity': '75', 'passengers': '0', 'max_atmosphering_speed': '1250', 'crew': '1', 'length': '9.6', 'model': 'Twin Ion Engine Interceptor', 'cost_in_credits': 'unknown', 'manufacturer': 'Sienar Fleet Systems'}

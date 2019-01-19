@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.452Z', 'climate': 'temperate', 'surface_water': 'unknown', 'name': 'Stewjon', 'diameter': '0', 'rotation_period': 'unknown', 'created': '2014-12-10T16:16:26.566Z', 'terrain': 'grass', 'gravity': '1 standard', 'orbital_period': 'unknown', 'population': 'unknown'}

@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:36:42.183Z', 'classification': 'mammal', 'name': 'Zabrak', 'designation': 'sentient', 'created': '2014-12-20T10:26:59.894Z', 'eye_colors': 'brown, orange', 'people': [44, 54], 'skin_colors': 'pale, brown, red, orange, yellow', 'language': 'Zabraki', 'hair_colors': 'black', 'homeworld': 45, 'average_lifespan': 'unknown', 'average_height': '180'}

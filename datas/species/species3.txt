@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:36:42.142Z', 'classification': 'mammal', 'name': 'Wookie', 'designation': 'sentient', 'created': '2014-12-10T16:44:31.486Z', 'eye_colors': 'blue, green, yellow, brown, golden, red', 'people': [13, 80], 'skin_colors': 'gray', 'language': 'Shyriiwook', 'hair_colors': 'black, brown', 'homeworld': 14, 'average_lifespan': '400', 'average_height': '210'}

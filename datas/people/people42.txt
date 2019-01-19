@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.401Z', 'name': 'Shmi Skywalker', 'created': '2014-12-19T17:57:41.191Z', 'gender': 'female', 'skin_color': 'fair', 'hair_color': 'black', 'height': '163', 'eye_color': 'brown', 'mass': 'unknown', 'homeworld': 1, 'birth_year': '72BBY'}

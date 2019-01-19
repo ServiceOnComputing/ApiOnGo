@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:36:42.153Z', 'classification': 'amphibian', 'name': 'Mon Calamari', 'designation': 'sentient', 'created': '2014-12-18T11:09:52.263Z', 'eye_colors': 'yellow', 'people': [27], 'skin_colors': 'red, blue, brown, magenta', 'language': 'Mon Calamarian', 'hair_colors': 'none', 'homeworld': 31, 'average_lifespan': 'unknown', 'average_height': '160'}

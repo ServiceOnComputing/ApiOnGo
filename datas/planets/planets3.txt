@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.421Z', 'climate': 'temperate, tropical', 'surface_water': '8', 'name': 'Yavin IV', 'diameter': '10200', 'rotation_period': '24', 'created': '2014-12-10T11:37:19.144Z', 'terrain': 'jungle, rainforests', 'gravity': '1 standard', 'orbital_period': '4818', 'population': '1000'}

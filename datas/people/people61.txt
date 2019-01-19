@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.451Z', 'name': 'Cliegg Lars', 'created': '2014-12-20T15:59:03.958Z', 'gender': 'male', 'skin_color': 'fair', 'hair_color': 'brown', 'height': '183', 'eye_color': 'blue', 'mass': 'unknown', 'homeworld': 1, 'birth_year': '82BBY'}

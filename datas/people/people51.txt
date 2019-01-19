@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.422Z', 'name': 'Ki-Adi-Mundi', 'created': '2014-12-20T10:15:32.293Z', 'gender': 'male', 'skin_color': 'pale', 'hair_color': 'white', 'height': '198', 'eye_color': 'yellow', 'mass': '82', 'homeworld': 43, 'birth_year': '92BBY'}

@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.416Z', 'name': 'Gasgano', 'created': '2014-12-20T10:02:12.223Z', 'gender': 'male', 'skin_color': 'white, blue', 'hair_color': 'none', 'height': '122', 'eye_color': 'black', 'mass': 'unknown', 'homeworld': 40, 'birth_year': 'unknown'}

@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.491Z', 'name': 'Tarfful', 'created': '2014-12-20T19:46:34.209Z', 'gender': 'male', 'skin_color': 'brown', 'hair_color': 'brown', 'height': '234', 'eye_color': 'blue', 'mass': '136', 'homeworld': 14, 'birth_year': 'unknown'}

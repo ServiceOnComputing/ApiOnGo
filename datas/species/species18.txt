@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:36:42.175Z', 'classification': 'unknown', 'name': 'Xexto', 'designation': 'sentient', 'created': '2014-12-20T10:02:13.915Z', 'eye_colors': 'black', 'people': [49], 'skin_colors': 'grey, yellow, purple', 'language': 'Xextese', 'hair_colors': 'none', 'homeworld': 40, 'average_lifespan': 'unknown', 'average_height': '125'}

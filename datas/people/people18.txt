@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.343Z', 'name': 'Jek Tono Porkins', 'created': '2014-12-12T11:16:56.569Z', 'gender': 'male', 'skin_color': 'fair', 'hair_color': 'brown', 'height': '180', 'eye_color': 'blue', 'mass': '110', 'homeworld': 26, 'birth_year': 'unknown'}

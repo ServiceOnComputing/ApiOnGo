@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.403Z', 'name': 'Darth Maul', 'created': '2014-12-19T18:00:41.929Z', 'gender': 'male', 'skin_color': 'red', 'hair_color': 'none', 'height': '175', 'eye_color': 'yellow', 'mass': '80', 'homeworld': 36, 'birth_year': '54BBY'}

@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:30:21.731Z', 'consumables': '7 days', 'name': 'SPHA', 'created': '2014-12-20T18:12:32.315Z', 'cargo_capacity': '500', 'passengers': '30', 'max_atmosphering_speed': '35', 'crew': '25', 'length': '140', 'model': 'Self-Propelled Heavy Artillery', 'cost_in_credits': 'unknown', 'manufacturer': 'Rothana Heavy Engineering'}

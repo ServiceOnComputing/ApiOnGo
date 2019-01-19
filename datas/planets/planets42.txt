@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.491Z', 'climate': 'temperate', 'surface_water': 'unknown', 'name': 'Haruun Kal', 'diameter': '10120', 'rotation_period': '25', 'created': '2014-12-20T10:12:28.980Z', 'terrain': 'toxic cloudsea, plateaus, volcanoes', 'gravity': '0.98', 'orbital_period': '383', 'population': '705300'}

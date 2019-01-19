@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.521Z', 'climate': 'temperate', 'surface_water': 'unknown', 'name': 'Shili', 'diameter': 'unknown', 'rotation_period': 'unknown', 'created': '2014-12-20T18:43:14.049Z', 'terrain': 'cities, savannahs, seas, plains', 'gravity': '1', 'orbital_period': 'unknown', 'population': 'unknown'}

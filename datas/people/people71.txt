@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.473Z', 'name': 'Lama Su', 'created': '2014-12-20T17:30:50.416Z', 'gender': 'male', 'skin_color': 'grey', 'hair_color': 'none', 'height': '229', 'eye_color': 'black', 'mass': '88', 'homeworld': 10, 'birth_year': 'unknown'}

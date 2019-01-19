@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.369Z', 'name': 'Wicket Systri Warrick', 'created': '2014-12-18T11:21:58.954Z', 'gender': 'male', 'skin_color': 'brown', 'hair_color': 'brown', 'height': '88', 'eye_color': 'brown', 'mass': '20', 'homeworld': 7, 'birth_year': '8BBY'}

@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.469Z', 'climate': 'arid', 'surface_water': 'unknown', 'name': 'Socorro', 'diameter': '0', 'rotation_period': '20', 'created': '2014-12-15T12:56:31.121Z', 'terrain': 'deserts, mountains', 'gravity': '1 standard', 'orbital_period': '326', 'population': '300000000'}

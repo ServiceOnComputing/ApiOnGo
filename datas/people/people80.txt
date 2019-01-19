@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.493Z', 'name': 'Raymus Antilles', 'created': '2014-12-20T19:49:35.583Z', 'gender': 'male', 'skin_color': 'light', 'hair_color': 'brown', 'height': '188', 'eye_color': 'brown', 'mass': '79', 'homeworld': 2, 'birth_year': 'unknown'}

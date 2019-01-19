@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.321Z', 'name': 'R5-D4', 'created': '2014-12-10T15:57:50.959Z', 'gender': 'n/a', 'skin_color': 'white, red', 'hair_color': 'n/a', 'height': '97', 'eye_color': 'red', 'mass': '32', 'homeworld': 1, 'birth_year': 'unknown'}

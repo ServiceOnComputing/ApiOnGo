@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:23:49.897Z', 'consumables': '1 month', 'name': 'Slave 1', 'created': '2014-12-15T13:00:56.332Z', 'cargo_capacity': '70000', 'passengers': '6', 'max_atmosphering_speed': '1000', 'crew': '1', 'length': '21.5', 'model': 'Firespray-31-class patrol and attack', 'cost_in_credits': 'unknown', 'manufacturer': 'Kuat Systems Engineering'}

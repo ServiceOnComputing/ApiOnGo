@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.498Z', 'name': 'Tion Medon', 'created': '2014-12-20T20:35:04.260Z', 'gender': 'male', 'skin_color': 'grey', 'hair_color': 'none', 'height': '206', 'eye_color': 'black', 'mass': '80', 'homeworld': 12, 'birth_year': 'unknown'}

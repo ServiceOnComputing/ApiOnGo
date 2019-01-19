@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:36:42.179Z', 'classification': 'mammal', 'name': 'Cerean', 'designation': 'sentient', 'created': '2014-12-20T10:15:33.765Z', 'eye_colors': 'hazel', 'people': [52], 'skin_colors': 'pale pink', 'language': 'Cerean', 'hair_colors': 'red, blond, black, white', 'homeworld': 43, 'average_lifespan': 'unknown', 'average_height': '200'}

@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.474Z', 'name': 'Taun We', 'created': '2014-12-20T17:31:21.195Z', 'gender': 'female', 'skin_color': 'grey', 'hair_color': 'none', 'height': '213', 'eye_color': 'black', 'mass': 'unknown', 'homeworld': 10, 'birth_year': 'unknown'}

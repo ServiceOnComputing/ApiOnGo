@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.447Z', 'climate': 'hot, humid', 'surface_water': 'unknown', 'name': 'Felucia', 'diameter': '9100', 'rotation_period': '34', 'created': '2014-12-10T13:44:50.397Z', 'terrain': 'fungus forests', 'gravity': '0.75 standard', 'orbital_period': '231', 'population': '8500000'}

@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.317Z', 'name': 'Owen Lars', 'created': '2014-12-10T15:52:14.024Z', 'gender': 'male', 'skin_color': 'light', 'hair_color': 'brown, grey', 'height': '178', 'eye_color': 'blue', 'mass': '120', 'homeworld': 1, 'birth_year': '52BBY'}

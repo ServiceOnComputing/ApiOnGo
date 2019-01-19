@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T20:58:18.440Z', 'climate': 'hot', 'surface_water': '0', 'name': 'Mustafar', 'diameter': '4200', 'rotation_period': '36', 'created': '2014-12-10T12:50:16.526Z', 'terrain': 'volcanoes, lava rivers, mountains, caves', 'gravity': '1 standard', 'orbital_period': '412', 'population': '20000'}

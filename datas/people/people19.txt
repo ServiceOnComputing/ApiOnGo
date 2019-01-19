@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.345Z', 'name': 'Yoda', 'created': '2014-12-15T12:26:01.042Z', 'gender': 'male', 'skin_color': 'green', 'hair_color': 'white', 'height': '66', 'eye_color': 'brown', 'mass': '17', 'homeworld': 28, 'birth_year': '896BBY'}

@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:36:42.155Z', 'classification': 'mammal', 'name': 'Ewok', 'designation': 'sentient', 'created': '2014-12-18T11:22:00.285Z', 'eye_colors': 'orange, brown', 'people': [30], 'skin_colors': 'brown', 'language': 'Ewokese', 'hair_colors': 'white, brown, black', 'homeworld': 7, 'average_lifespan': 'unknown', 'average_height': '100'}

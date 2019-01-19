@@ -1,0 +1,1 @@
+{'edited': '2014-12-20T21:17:50.327Z', 'name': 'Anakin Skywalker', 'created': '2014-12-10T16:20:44.310Z', 'gender': 'male', 'skin_color': 'fair', 'hair_color': 'blond', 'height': '188', 'eye_color': 'blue', 'mass': '84', 'homeworld': 1, 'birth_year': '41.9BBY'}
