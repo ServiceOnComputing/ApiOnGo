@@ -89,9 +89,6 @@ func person(w http.ResponseWriter, r *http.Request) {
 		fmt.Println("There was an error:", err.Error())
 	}
 
-	//fmt.Fprintf(w,"content:%s",result)
-	//fmt.Fprintf(w,"<hr/>")
-	//fmt.Fprintf(w,"content:",result)
 }
 
 func vehicle(w http.ResponseWriter, r *http.Request) {
@@ -199,9 +196,6 @@ func starship(w http.ResponseWriter, r *http.Request) {
 		fmt.Println("There was an error:", err.Error())
 	}
 
-	//fmt.Fprintf(w,"content:%s",result)
-	//fmt.Fprintf(w,"<hr/>")
-	//fmt.Fprintf(w,"content:",result)
 }
 func film(w http.ResponseWriter, r *http.Request) {
 	r.ParseForm()
