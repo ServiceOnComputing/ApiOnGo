@@ -35,38 +35,9 @@ func Getjson(kind string,id int) (*people.People) {
 	fmt.Println(result)
 	return result
 
-    // file, err := os.OpenFile(datapath, os.O_RDWR, 0666)
-    // if err != nil {
-    //     fmt.Println("Open file error!", err)
-    //     return "error"
-    // }
-    // defer file.Close()
 
-    // stat, err := file.Stat()
-    // if err != nil {
-    //     panic(err)
-    // }
-    // var size = stat.Size()
-    // fmt.Println("file size=", size)
 
-    
-
-    // buf := bufio.NewReader(file)
-    // line, err := buf.ReadString('\n')
-    // line = strings.TrimSpace(line)
-    
-    //     //line = strings.TrimSpace(line)
-    // if err != nil {
-    //     if err == io.EOF {
-    //         fmt.Println("File read ok!")
-    //     } else {
-    //         fmt.Println("Read file error!", err)
-    //         return "error"
-    //     }
-    // }
-    // fmt.Println(line)
-    // return line
-    
+       
 }
 
 type JsonStruct struct {
