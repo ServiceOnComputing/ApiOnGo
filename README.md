@@ -146,7 +146,7 @@ func planet(w http.ResponseWriter, r *http.Request) {
             return
         }
 ```
-到这里工作基本完成。
+
 
 ### boltDB数据库操作
 用blotdb实现保存注册的用户的数据：
